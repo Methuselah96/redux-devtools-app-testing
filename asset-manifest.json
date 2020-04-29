@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/connect-trace/static/css/main.f559617d.chunk.css",
-    "main.js": "/connect-trace/static/js/main.bf8c0197.chunk.js",
-    "main.js.map": "/connect-trace/static/js/main.bf8c0197.chunk.js.map",
-    "runtime-main.js": "/connect-trace/static/js/runtime-main.1b82fdda.js",
-    "runtime-main.js.map": "/connect-trace/static/js/runtime-main.1b82fdda.js.map",
-    "static/js/2.7493bf53.chunk.js": "/connect-trace/static/js/2.7493bf53.chunk.js",
-    "static/js/2.7493bf53.chunk.js.map": "/connect-trace/static/js/2.7493bf53.chunk.js.map",
-    "index.html": "/connect-trace/index.html",
-    "precache-manifest.129990648addb4d9cc2157845f728067.js": "/connect-trace/precache-manifest.129990648addb4d9cc2157845f728067.js",
-    "service-worker.js": "/connect-trace/service-worker.js",
-    "static/css/main.f559617d.chunk.css.map": "/connect-trace/static/css/main.f559617d.chunk.css.map",
-    "static/js/2.7493bf53.chunk.js.LICENSE.txt": "/connect-trace/static/js/2.7493bf53.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/connect-trace/static/media/logo.8dad8028.svg"
+    "main.css": "/redux-devtools-app-testing/static/css/main.f559617d.chunk.css",
+    "main.js": "/redux-devtools-app-testing/static/js/main.253e094b.chunk.js",
+    "main.js.map": "/redux-devtools-app-testing/static/js/main.253e094b.chunk.js.map",
+    "runtime-main.js": "/redux-devtools-app-testing/static/js/runtime-main.b9193d31.js",
+    "runtime-main.js.map": "/redux-devtools-app-testing/static/js/runtime-main.b9193d31.js.map",
+    "static/js/2.7493bf53.chunk.js": "/redux-devtools-app-testing/static/js/2.7493bf53.chunk.js",
+    "static/js/2.7493bf53.chunk.js.map": "/redux-devtools-app-testing/static/js/2.7493bf53.chunk.js.map",
+    "index.html": "/redux-devtools-app-testing/index.html",
+    "precache-manifest.fd76c02f54d69e8e7186ebd3d1b8f9d7.js": "/redux-devtools-app-testing/precache-manifest.fd76c02f54d69e8e7186ebd3d1b8f9d7.js",
+    "service-worker.js": "/redux-devtools-app-testing/service-worker.js",
+    "static/css/main.f559617d.chunk.css.map": "/redux-devtools-app-testing/static/css/main.f559617d.chunk.css.map",
+    "static/js/2.7493bf53.chunk.js.LICENSE.txt": "/redux-devtools-app-testing/static/js/2.7493bf53.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/redux-devtools-app-testing/static/media/logo.8dad8028.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b82fdda.js",
+    "static/js/runtime-main.b9193d31.js",
     "static/js/2.7493bf53.chunk.js",
     "static/css/main.f559617d.chunk.css",
-    "static/js/main.bf8c0197.chunk.js"
+    "static/js/main.253e094b.chunk.js"
   ]
 }
