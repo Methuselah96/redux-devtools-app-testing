@@ -1,9 +1,13 @@
 import { createSlice } from '@reduxjs/toolkit';
 
+const map = new Map();
+map.set("testing", 20);
+
 export const counterSlice = createSlice({
   name: 'counter',
   initialState: {
     value: 0,
+    testMap: map,
   },
   reducers: {
     increment: state => {
