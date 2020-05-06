@@ -9,10 +9,25 @@ const json = {
   thisIsAMap: map,
 };
 
-function App() {
-  return (
-    <JSONTree data={json} />
-  );
+class App extends React.Component {
+  state = {
+    expanded: false,
+  }
+
+  render() {
+    return (
+      <>
+        <button onClick={() => this.setState((prevState) => ({ expanded: !prevState.expanded }))}>
+          Test
+        </button>
+        <Tree expand={this.state.expanded} />
+      </>
+    );
+  }
+}
+
+function Tree(props) {
+  return <JSONTree data={json} shouldExpandNode={() => props.expand} />;
 }
 
 export default App;
